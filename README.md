@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&section=header&text=Hello!!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&section=header&text=Hello!!&fontSize=45)
 
 ## Skils
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
