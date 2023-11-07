@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Hellow!!&fontSize=90)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+
 ## Skils
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
