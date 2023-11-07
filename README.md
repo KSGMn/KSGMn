@@ -1,23 +1,6 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=HI%20bye&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hellow!!&fontSize=90)
 
-
-    
-
-<!--
-**KSGMn/KSGMn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
@@ -77,6 +60,8 @@ Here are some ideas to get you started:
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
+         <img src="https://img.shields.io/badge/Apollo%20Server-311C87?style=for-the-badge&logo=apollographql&logoColor=white" alt="Apollo Server" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
          <img src="https://img.shields.io/badge/TypeORM-007ACC?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM"> 
     <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" alt="REST API" />
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
