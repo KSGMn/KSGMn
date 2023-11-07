@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hellow!!&fontSize=90)
 
 
- DEV's log 
+## DEV's log 
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@bi-sz">
         <img src="https://img.shields.io/badge/
@@ -14,7 +14,7 @@
     </a>
   
 
- Once I've used 
+## Once I've used 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
