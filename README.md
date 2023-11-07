@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&section=header&text=Welcome%20to%20My%20Space!&fontSize=45)
+<div align="left">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&section=header&text=Welcome%20to%20My%20Space!&fontSize=45"/>
+</div>
 
 
 ## Skils
