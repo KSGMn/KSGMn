@@ -1,20 +1,7 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hellow!!&fontSize=90)
 
-
-## DEV's log 
-<div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@bi-sz">
-        <img src="https://img.shields.io/badge/
-        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-    <a href="https://li-yo.tistory.com">
-        <img src="https://img.shields.io/badge/
-        Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
-  
-
-## Once I've used 
+## Skils
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
