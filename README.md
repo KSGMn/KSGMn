@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Hellow!!&fontSize=90)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSGMn&show_icons=true&theme=dark)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&section=header&text=Hello!!&fontSize=90)
 
 ## Skils
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -56,3 +54,5 @@
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=for-the-badge&logo=android studio&logoColor=white">
 </div><br>
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSGMn&show_icons=true&theme=dark)
