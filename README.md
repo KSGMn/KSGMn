@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6994CDEE,100:EC6EAFFF&height=150&section=header&text=Welcome%20to%20My%20GitHub&fontSize=30&animation=fadeIn&fontAlign=0&fontAlignY=35&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6994CDEE,100:EC6EAFFF&height=150&section=header&text=Welcome%20to%20My%20GitHub&fontSize=30&animation=fadeIn&fontAlign=30&fontAlignY=35&fontColor=FFFFFF)
 
 
 ## Skils
