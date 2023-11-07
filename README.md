@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&section=header&text=Welcome%20to%20My%20Space!&fontSize=45)
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+bi-sz's+GitHub!👋)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6994CDEE,100:EC6EAFFF&height=150&section=header&fontSize=90&animation=fadeIn&fontAlignY=30&desc=Hello%20Custom%20Header&descAlignY=51&descAlign=62)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Alkatra&size=30&duration=5000&color=F7F7F7&background=FF000000&center=true&vCenter=true&width=435&lines=Hello+there!;This+is+your+personalized+message.;Enjoy+my+GitHub+profile!)](https://git.io/typing-svg)
+
 
 
 
