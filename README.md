@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6994CDEE,100:EC6EAFFF&height=150&section=header&fontSize=90&animation=fadeIn&fontAlignY=30&desc=Hello%20Custom%20Header&descAlignY=51&descAlign=62)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Alkatra&size=30&duration=5000&color=F7F7F7&background=FF000000&center=true&vCenter=true&width=435&lines=Hello+there!;This+is+your+personalized+message.;Enjoy+my+GitHub+profile!)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6994CDEE,100:EC6EAFFF&height=150&section=header&fontSize=90&animation=fadeIn&fontAlignY=30&descAlignY=51&descAlign=62)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Alkatra&size=30&duration=5000&color=F7F7F7&background=FF000000&center=true&vCenter=true&width=435&lines=Hello!)](https://git.io/typing-svg)
 
 
 
