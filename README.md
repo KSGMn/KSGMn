@@ -55,5 +55,10 @@
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=for-the-badge&logo=android studio&logoColor=white">
 </div><br>
 </div>
+<div align="center">
+<img src = https://github-readme-stats.vercel.app/api?username=KSGMn&show_icons=true&theme=dark>
+</div>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSGMn&show_icons=true&theme=dark) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSGMn&show_icons=true&theme=dark)
+
+
