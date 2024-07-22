@@ -26,7 +26,6 @@
     <div
                 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
           <img src="https://img.shields.io/badge/TypeScript-007396?style=for-the-badge&logo=Typescript&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
        <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     </div>
