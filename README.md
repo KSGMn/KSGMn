@@ -15,13 +15,9 @@
     <p><strong>Data / Analytics</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-        <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-        <br>
-        <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
-        <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-        <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
+        <img src="https://img.shields.io/badge/Data%20Analysis-005571?style=for-the-badge&logo=simpleanalytics&logoColor=white">
+        <img src="https://img.shields.io/badge/Statistics-00356B?style=for-the-badge&logo=r&logoColor=white">
+        <img src="https://img.shields.io/badge/Insights-FFCC00?style=for-the-badge&logo=lighthouse&logoColor=black">
     </div>
     <br>
     <!-- BackEnd -->
