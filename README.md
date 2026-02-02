@@ -33,7 +33,7 @@
     </div>
     <br>
     <!-- FrontEnd -->
-    <p><strong>FrameWork</strong></p>
+    <p><strong>FrontEnd</strong></p>
     <div>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
