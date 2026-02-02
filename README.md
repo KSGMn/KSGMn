@@ -39,7 +39,7 @@
     <p><strong>DevOps</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=git&logoColor=white" alt="GitHub" />
         <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
     </div>
 </div>
